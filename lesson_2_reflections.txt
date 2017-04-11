@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+you create a git folder for meta data to allow the saving of command files
+How is the staging area different from the working directory and the repository? What value do you think it offers
+It allows you to experiment and think things through before you commit it.
+How can you use the staging area to make sure you have one commit per logical change?
+You can compare what is in the staging area with the most recent commit and the working area
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It brings all updates from the two branches into one file. The representation was for clairty of understanding the structure
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+manual merging gives you more control but gits automatic merging is an incredibly powerful tool
